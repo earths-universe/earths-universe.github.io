@@ -1,5 +1,5 @@
 body {
-    background: url("https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Blue_Marble_%28remastered%29.jpg");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Blue_Marble_%28remastered%29.jpg");
 }
 h1 {
     font-size: 64pt;
@@ -29,13 +29,13 @@ header {
     padding: 10px;
 }
 .header-select:hover {
-    background: rgba(100, 100, 100, 1);
+    background: rgba(200, 200, 200, 1);
     color: rgba(0, 0, 0, 1);
     cursor: pointer;
 }
 .body-wrapper-first {
     width: 75%;
-    margin-left: 25%;
+    margin-left: 10%;
     padding: 20px;
     border-radius: 15px;
     background: rgba(255, 255, 255, 1);

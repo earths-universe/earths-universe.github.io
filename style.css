@@ -34,8 +34,9 @@ header {
     width: 100%;
     background: rgba(0, 0, 0, 1);
     color: rgba(255, 255, 255, 1);
-    font-size: 14pt;
+    font-size: 12pt;
     padding: 20px;
+    font-family: serif;
 }
 .header-select:hover {
     background: rgba(200, 200, 200, 1);

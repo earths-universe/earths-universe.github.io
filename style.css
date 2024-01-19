@@ -7,6 +7,9 @@ h1 {
 h3 {
     font-size: 32pt;
 }
+h4 {
+    font-size: 16pt;
+}
 a {
     text-decoration: none;
 }
@@ -31,7 +34,8 @@ header {
     width: 100%;
     background: rgba(0, 0, 0, 1);
     color: rgba(255, 255, 255, 1);
-    padding: 10px;
+    font-size: 14pt;
+    padding: 20px;
 }
 .header-select:hover {
     background: rgba(200, 200, 200, 1);

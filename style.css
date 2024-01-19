@@ -13,6 +13,9 @@ a {
 p {
     margin: 5px;
 }
+button {
+    border: none;
+}
 header {
     position: fixed;
     top: 0;
@@ -20,9 +23,9 @@ header {
     bottom: 0;
     background: rgba(0, 0, 0, 1);
     color: rgba(255, 255, 255, 1);
-    width: 10%;
+    width: 12%;
     padding: 10px;
-    max-width: 10%;
+    max-width: 12%;
 }
 .header-select {
     width: 100%;
@@ -37,7 +40,7 @@ header {
 }
 .body-wrapper-first {
     width: 70%;
-    margin-left: 20%;
+    margin-left: 21%;
     padding: 20px;
     border-radius: 15px;
     background: rgba(255, 255, 255, 1);
